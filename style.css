@@ -1,3 +1,15 @@
+.employers {
+  display: flex;
+  margin: 25px 0;
+  gap: 25px;
+  justify-content: space-between;
+}
+
+.employers>* {
+  flex: 1;
+  display: block;
+}
+
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
