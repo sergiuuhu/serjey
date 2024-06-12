@@ -12337,7 +12337,8 @@ figcaption {
   .feature-image-mask-2 {
     width: 75%;
     max-width: 75%;
-    margin-right: 0px;
+    margin: auto;
+    /* margin-right: 0px; */
     padding-bottom: 10px;
     text-align: center;
   }
@@ -12834,8 +12835,8 @@ figcaption {
   }
 
   .medium-heading.home._2.landscape.second-pane {
-    padding-right: 20px;
-    padding-left: 20px;
+    /* padding-right: 20px; */
+    /* padding-left: 20px; */
   }
 
   .medium-heading.services-home {
