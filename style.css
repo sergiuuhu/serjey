@@ -5370,9 +5370,9 @@ figcaption {
 .medium-heading.home._2.landscape.second-pane {
   margin-bottom: 10px;
   padding-top: 20px;
-  padding-right: 140px;
-  padding-left: 140px;
-  color: #7c8034;
+  text-align: left;
+  color: #b15533;
+  padding: 10px !important;
 }
 
 .medium-heading.services-home {
