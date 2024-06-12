@@ -1,13 +1,22 @@
 .employers {
   display: flex;
   margin: 25px 0;
-  gap: 25px;
-  justify-content: space-between;
+  gap: 20px;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
 }
 
 .employers>* {
-  flex: 1;
   display: block;
+  max-height: 20px;
+}
+
+.employers img {
+  margin: auto;
+  display: block;
+  width: auto;
+  height: 30px;
 }
 
 /* ==========================================================================
