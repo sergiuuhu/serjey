@@ -1,3 +1,19 @@
+.legal-section {
+  max-width: 980px;
+  padding: 75px 40px;
+  margin: auto;
+}
+
+.footer {
+  text-align: center;
+}
+
+.footer a {
+  padding: 20px 10px;
+  display: inline-block;
+  font-size: 14px;
+}
+
 .employers {
   display: flex;
   margin: 25px 0;
